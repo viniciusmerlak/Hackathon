@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1017515240679",
+    "firebase_url": "https://hack-a-ton-8603f-default-rtdb.firebaseio.com",
+    "project_id": "hack-a-ton-8603f",
+    "storage_bucket": "hack-a-ton-8603f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1017515240679:android:1ef8b17e369b6fb0538642",
+        "android_client_info": {
+          "package_name": "seila.hellyeah"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAmuO10FSQIs6XVhHJrBjVK9bKAMCBH9Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
